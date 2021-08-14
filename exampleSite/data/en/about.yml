@@ -1,16 +1,15 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : Front End Developer
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - image : images/about/profile.jpg
+    image_webp : 
+    title : About Me
+    content : Highly experienced in implementing front-end techniques to produce unique and functional web design solutions. With each project I apply a sharp attention to detail as well as a pragmatic and result-driven approach to the web development process. I am dedicated to providing superior customer service from the initial meeting with the client to website maintenance after launch.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - image : images/about/profile.jpg
+    image_webp : 
+    title : 
+    content : 
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.

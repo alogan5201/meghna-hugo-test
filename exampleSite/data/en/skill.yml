@@ -1,26 +1,76 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Skills
+  title : Skills
   subtitle : We’ve skilled in wide range of web and Other digital market tools.
   content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image : images/about/company-growth.webp
-  skill_item :
+  col1_technical_skill_item :
     # skill item loop
-    - name :  Business Development
+    - name :  CSS3/HTML5
+      percent : 100%
+      
+    # skill item loop
+    - name :  Javascript
+      percent : 95%
+      
+    - name :  NodeJS
+      percent : 85%
+      
+    # skill item loop
+    - name :  NextJS
+      percent : 85%
+
+    # skill item loop
+    - name :  API Integration
+      percent : 80%
+      
+    # skill item loop
+    - name :  MERN
       percent : 90%
       
     # skill item loop
-    - name :  Analysis
+    - name :  Database Management
+      percent : 90%
+      
+    - name :  SEO
+      percent : 85%
+      
+    # skill item loop
+    - name :  Shopify
+      percent : 75%
+
+  col2_technical_skill_item :
+    # skill item loop
+    - name :  Responsive Design
+      percent : 90%
+    # skill item loop
+    - name :  MongoDB
+      percent : 95%
+    # skill item loop
+    - name :  jQuery
+      percent : 90%
+    
+    # skill item loop
+    - name :  LAMP
+      percent : 90%
+      
+    # skill item loop
+    - name :  MySQL
+      percent : 80%
+
+    # skill item loop
+    - name :  React
       percent : 70%
       
     # skill item loop
-    - name :  Design
-      percent : 80%
-      
-    - name :  IOS Development
-      percent : 95%
-      
+    - name :  SASS
+      percent : 75%
+
     # skill item loop
-    - name :  Android Development
+    - name :  AWS/Firebase
+      percent : 90%
+
+    # skill item loop
+    - name :  SASS
       percent : 75%
